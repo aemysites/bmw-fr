@@ -1,0 +1,58 @@
+{
+  "templates": [
+    {
+      "name": "'Blog Listing'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "uuid": "282654ff4edcd5b33d1b8c67edf0aec353b29e19"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "uuid": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "uuid": "a00ebcb69a83baa283a2f1945b1d0062b77e1530"
+        }
+      ]
+    },
+    {
+      "name": "'Magazine Layout'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "uuid": "2f8af07be0822cc028019298f2d91ffa2b251d08"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "uuid": "e9827a7927a27ae4342ce41c40d71e7546babdd6"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "uuid": "cb221480a735d0506e17653bcc1e6a8d2e5f9467"
+        }
+      ]
+    },
+    {
+      "name": "'Calendar Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "uuid": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "uuid": "424b09d03f23a523aeca7be956a21e998d909b03"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "uuid": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d"
+        }
+      ]
+    }
+  ]
+}
