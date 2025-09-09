@@ -1,0 +1,154 @@
+{
+  "originUrl": "https://www.bmw.fr",
+  "aborted": false,
+  "lastCrawled": "https://www.bmw.fr/",
+  "urls": [
+    {
+      "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques",
+      "id": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "source": "SITEMAPS",
+      "targetPath": "/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering",
+      "id": "a00ebcb69a83baa283a2f1945b1d0062b77e1530"
+    },
+    {
+      "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten",
+      "id": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/all-models/i-series/i7/bmw-i7-berline",
+      "id": "cb221480a735d0506e17653bcc1e6a8d2e5f9467"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/all-models/i-series/ix2/bmw-ix2-apercu",
+      "id": "e9827a7927a27ae4342ce41c40d71e7546babdd6"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/electric-cars/plug-in-hybrid",
+      "id": "2f8af07be0822cc028019298f2d91ffa2b251d08"
+    },
+    {
+      "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+      "source": "SITEMAPS",
+      "targetPath": "/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys",
+      "id": "424b09d03f23a523aeca7be956a21e998d909b03"
+    },
+    {
+      "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+      "source": "SITEMAPS",
+      "targetPath": "/lv/electric-cars/bmw-charging-atbalsts",
+      "id": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles",
+      "id": "282654ff4edcd5b33d1b8c67edf0aec353b29e19"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://language-blueprint-awsprod-b1.prod.bmwweb.eu-central-1.aws.bmw.cloud/en/all-models/2-series/2-series-coupe/bmw-2-series-coupe-technical-data.html",
+      "status": "401 Unauthorized"
+    },
+    {
+      "url": "https://language-blueprint-awsprod-b1.prod.bmwweb.eu-central-1.aws.bmw.cloud/en/more-bmw/bmw-special-sales-overview/bmw-7-protection.html",
+      "status": "401 Unauthorized"
+    },
+    {
+      "url": "https://central-blueprint-awsprod-b1.prod.bmwweb.eu-central-1.aws.bmw.cloud/de/all-models/7-series/7-series-sedan/bmw-7er-limousine-technische-daten.html",
+      "status": "401 Unauthorized"
+    },
+    {
+      "url": "https://www.bmw.es/es/more-bmw/bmw-special-sales-overview/bmw-x5-protection-vr6.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.lv/lv/all-models/m-series/i4-m50/bmw-i4-m60-xdrive-gran-coupe-tehniskie-dati.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.lu/fr/all-models/x-series/x5/bmw-x5-caracteristiques-techniques.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.be/nl/footer/metanavigation/toegankelijkheid-van-bmw.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://language-blueprint-awsprod-b1.prod.bmwweb.eu-central-1.aws.bmw.cloud/en/all-models/m-series/xm/bmw-xm-technische-daten.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/m-series/m4-series/bmw-m4-coupe-caracteristiques-techniques.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/m-series/m2-series/caracteristiques-techniques.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.co.uk/en/all-models/i-series/ix2/bmw-ix2-technical-data.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.it/it/more-bmw/bmw-special-sales.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.ch/fr/all-models/z-series/z4-roadster/bmw-z4-caracteristiques-techniques.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.es/es/electric-cars/bmw-flexible-fast-charger.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/topics/offers-and-services/services-bmw/homologuer.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.it/it/electric-cars/bmw-wallbox-plus-gen-4.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.lu/de/all-models/m-series/i4-m50/bmw-i4-m60-xdrive-gran-coupe.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.lu/de/all-models/m-series/i7-m70/bmw-7er-m-automobile.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.bmw.fr/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.bmw.fr/sitemap.xml): Error: Status: 404"
+    }
+  ],
+  "errorCountMessage": "{\"E_401\":3,\"others\":16}",
+  "error": null
+}
