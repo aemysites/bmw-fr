@@ -1,0 +1,1802 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 85
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-24-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-43-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-11-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-12-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-12-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-28-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-06-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-12-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-45-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-21-0d6e1d529f5089fc342925f164279c919a9b004b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-22-46a467f8406f44b5a2a29c834c8604831f133e27",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-09-4f0019965449f69198d79680f49544de9874eb5e",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-20-3886e2206aaa76b5d437e20d8606132c1c8204a3",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-22-46a467f8406f44b5a2a29c834c8604831f133e27",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-24-8a5dd64c95989735c40e36385e86907faf1dbf94",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-11-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-27-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-11-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-21-c2a442589b2ca49f7492e630743272fc5e57911d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 4,
+      "source": "Tabs",
+      "target": "Tabs (tabs4)",
+      "key": "tabs4",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-02-93a0d6b7b42a3df9add5875304a59eff0ffdabbd",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-04-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-17-d4c62ffeaa46c0ff5ad0cdf8421750b7b9cf1308",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-02-aaddd1c99d9ffe8593a9b8b1ecb93d908b335469",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
+      "source": "Header",
+      "target": "Header (header7)",
+      "key": "header7",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-18-2698b1aefe14a8832e4087794567c2b50d4e4db9",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-34-aabf95a6b6f589b61c160923638fcd8905d7be0f",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-05-25f9fa083225b063ce0ce1e89265d5730ef5e95e",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-06-168421e4fbcacead7fc75568a611b16e2c2e6f4b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-07-d5f8ddb8915bed944aa58f8a2e156a4ca8fb2577",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-08-34a5e1a2cf4145ea6a16bbe1712ce380f1c9848c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages10)",
+      "key": "cardsNoImages10",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-24-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-43-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-11-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-12-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-12-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-28-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-06-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-12-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-45-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-22-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-41-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-09-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-10-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-10-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-26-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-04-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-10-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-43-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 13,
+      "source": "Accordion",
+      "target": "Accordion (accordion13)",
+      "key": "accordion13",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-17-ec49325e0b90703c524d114a4872054392f8bbec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-20-d823e4e99e401d785d5a86c3d9022128a5835004",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-39-be83191e0cde1b1ff59f58a8771623b8fa4e98dd",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-21-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-08-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-09-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-09-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-25-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 15,
+      "source": "Accordion",
+      "target": "Accordion (accordion15)",
+      "key": "accordion15",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-18-d7a9b5965e78fe8b4c47a6d85081d6b07ec41cb4",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 16,
+      "source": "Embed",
+      "target": "Embed (embedVideo16)",
+      "key": "embedVideo16",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-12-a745a4fc3bbcc29ad66468b7b70d411d1e455d71",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cards17)",
+      "key": "cards17",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-39-9ec47171a8571d8f171eb06836275fcab4e881a6",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[29]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-04-56d05b95ad382d7cf2687fe951429d0d51a76009",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-04-ee8034c12e0b0ec8b455d3b6140c34a443cf6193",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 19,
+      "source": "Accordion",
+      "target": "Accordion (accordion19)",
+      "key": "accordion19",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-05-8e44e7338410165a341fd880275317f36d8525d7",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-14-f143e978e517c1e304bca5c65e2a7fb36d57a5ee",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-21-2268d70943176174470ef425b80923944b6779c0",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 20,
+      "source": "Accordion",
+      "target": "Accordion (accordion20)",
+      "key": "accordion20",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-02-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 21,
+      "source": "Accordion",
+      "target": "Accordion (accordion21)",
+      "key": "accordion21",
+      "instances": [
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-04-678d3b18c8435a81aa3d7ecd7d7b97e92871bdf8",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 22,
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-02-d577ddd2647e2fbb6465eed8868807dc9da7f271",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 23,
+      "source": "Cards",
+      "target": "Cards (cards23)",
+      "key": "cards23",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-14-78a1a3d5dce6c82fd4ead5854660d9237a430e66",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 24,
+      "source": "Tabs",
+      "target": "Tabs (tabs24)",
+      "key": "tabs24",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-13-e1ce9d1a81ae7d9bfbe6a4a510f48e6f803a31cb",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 25,
+      "instances": [
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-06-2f9ef3464586c520e51316b30c63b657170aba76",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns",
+      "target": "Columns (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-29-725404ee6e29cb7684309f552f9aaf55bef481aa",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/swiper-container[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 28,
+      "source": "Accordion",
+      "target": "Accordion (accordion28)",
+      "key": "accordion28",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-16-710307a5f0acf654ba35694c5d34b3ff47573b12",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 29,
+      "source": "Cards",
+      "target": "Cards (cards29)",
+      "key": "cards29",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-11-e7bf8f21dadb621719e8600538ad41fca550423b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-13-941a962f17da32ac7ee86c7a605e92e64508120c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-18-a92ba3169c6b58df71136004cac4c9c14ee39283",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 30,
+      "source": "Hero",
+      "target": "Hero (hero30)",
+      "key": "hero30",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-01-26be873a8a6af7326b38f4b39a5c35bd77d232a1",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+          "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+          "uuid": "7757b489-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 31,
+      "source": "Accordion",
+      "target": "Accordion (accordion31)",
+      "key": "accordion31",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-09-36266f9a83e8df3cfd785c2a80a4e5f1bcaf1911",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-11-348e4366fcddc88cdb8c119b54464debbc904d4b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-13-b4ab13edab598728e6fdb5e35cf9d391db84159a",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 32,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages32)",
+      "key": "cardsNoImages32",
+      "instances": [
+        {
+          "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+          "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+          "uuid": "424b09d0-07-906d60cba81fc2ce7bc9571d955a2f1a6c81c635",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/aside[1]"
+        },
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-08-906d60cba81fc2ce7bc9571d955a2f1a6c81c635",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/aside[1]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-08-906d60cba81fc2ce7bc9571d955a2f1a6c81c635",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/aside[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 33,
+      "source": "Columns",
+      "target": "Columns (columns33)",
+      "key": "columns33",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-26-9046f05eb30425a99bd38c84fb1f2b04b521b4c3",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 34,
+      "source": "Tabs",
+      "target": "Tabs (tabs34)",
+      "key": "tabs34",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-07-b3ade4c336aa148d354bc80eb456aaa7aedf484e",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-14-5ecba3f9bd61f33a77f12b1553a7a067c0822d60",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "source": "Columns",
+      "target": "Columns (columns36)",
+      "key": "columns36",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-08-feac1800ae9878ee753fe8f51bfbaa29d64afe08",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 37,
+      "source": "Columns",
+      "target": "Columns (columns37)",
+      "key": "columns37",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-41-11ee0d233aeba2e98640a7eff601a433f597df31",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[20]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 38,
+      "source": "Columns",
+      "target": "Columns (columns38)",
+      "key": "columns38",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-08-bc080cbe60b98a150fc663fe25e5bbfd6df80f9e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-09-321ec92a2812acaa92fcdde35ee7f1945ed77b49",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 39,
+      "source": "Columns",
+      "target": "Columns (columns39)",
+      "key": "columns39",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-04-b013befb0fd8ec33a95d1387d073dc44f88837e4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-16-1005231874bcc05d4e712d7c8c66bdaccf069361",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 40,
+      "source": "Cards",
+      "target": "Cards (cards40)",
+      "key": "cards40",
+      "instances": [
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-06-19e956a5003625a8fff360418aa39ab11b6e6596",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+          "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+          "uuid": "282654ff-19-ebd38acedc427d1627f8dce782bd824a9bd70fae",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 41,
+      "source": "Columns",
+      "target": "Columns (columns41)",
+      "key": "columns41",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-40-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+          "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+          "uuid": "cb221480-03-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+          "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+          "uuid": "d7204faa-09-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-42-8dc7e9ba5e50119aff1f49e8d274675a5e4fd5ae",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 42,
+      "source": "Accordion",
+      "target": "Accordion (accordion42)",
+      "key": "accordion42",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-20-997af0cfa2124a1c20811be22306f972a0dfcf09",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 43,
+      "source": "Hero",
+      "target": "Hero (hero43)",
+      "key": "hero43",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-10-d7e537a6f55801baad6ea3b42cef46389ce50eb4",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 44,
+      "source": "Header",
+      "target": "Header (header44)",
+      "key": "header44",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+          "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+          "uuid": "675c80a6-00-18dee9d66fa3b04f67b90fbd8a921a16e7b9fea1",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 45,
+      "source": "Accordion",
+      "target": "Accordion (accordion45)",
+      "key": "accordion45",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-07-b8ea74caaff15c4e70d8efda9c57e23bd1353d79",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 46,
+      "source": "Accordion",
+      "target": "Accordion (accordion46)",
+      "key": "accordion46",
+      "instances": [
+        {
+          "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+          "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+          "uuid": "a00ebcb6-23-e7d0437fb3839a542e6b885b3e53711cb2c46c01",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 47,
+      "source": "Cards",
+      "target": "Cards (cards47)",
+      "key": "cards47",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-25-723fcdb930787e5ae6d4cf3ca449dde20e9467f0",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 48,
+      "source": "Columns",
+      "target": "Columns (columns48)",
+      "key": "columns48",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-35-8a95e9f3d87646cce2d0a8df3d2c45eaf1276840",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[16]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 49,
+      "source": "Columns",
+      "target": "Columns (columns49)",
+      "key": "columns49",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+          "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+          "uuid": "e9827a79-37-56d65faa7c2d64f619c832c00f1555394aa28ea0",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[17]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 50,
+      "source": "Cards",
+      "target": "Cards (cards50)",
+      "key": "cards50",
+      "instances": [
+        {
+          "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+          "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+          "uuid": "2f8af07b-24-95f10fe17c066e38c120e0c347df3f79aa59ee3f",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[14]/div[1]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-03-63c16c6ddb8d714cfb4c49f1e7717824ddd93d0d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-05-720e5610b43ec60e6416b0af4edcc349345e57b4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-07-7f278509e7cfa39b73bc909b4c81962cf93d6373",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-10-e8d95a11e25a16f7c96fa0bb9e9000675bcf12af",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-11-0dac2b9a8c734d68d18634eba1f3d2f25e1f68d0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-13-037041f8d446b8e6bbe6fd9f3ec34a8f33479777",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-15-46e213558715f0fce0695e5a2a4ab962e5132a37",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-16-0c402459d76f9623ad6ea99bb8b3612dfb0d44dd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-18-620e8ed93a543a835dbc37955fe9f11419b76091",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-20-a9406c6dd8c8d7ad66697ec94fead96ca1c3ab40",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.bmw.pt/pt/more-bmw/bmw-special-sales-overview/bmw-protection-vehicles.html",
+      "urlHash": "282654ff4edcd5b33d1b8c67edf0aec353b29e19",
+      "uuid": "282654ff-23-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-04-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-05-1e3ef52f8dc577334bf13b2418c997f01be3fab6",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-06-c96b78381ab1a65833f5d6858c8e5486ae25599e",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-07-53e50459a89b7a676fa5dba77d6c69f8b680e095",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-08-ad3381d17aafb67d0c556564378885479df0d5a8",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-09-63ffe07e2acf1c7fba5c5da65e2cb4de4a8990ce",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-10-abc7a6e7856a284cabf08c9da816f2e5b07d12a7",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-12-04b8f46c389e3a5ed2e50a8c08c383c473667d58",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-15-abe8be7b309ce7fb36e6a298e7837b84dc1cbc03",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-17-7ded10812c0b78f1f352abca198970de2ae78564",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-19-8ddc9f298d78441ece3bc9a292c20f2989b14444",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-23-054d53172c3bd167f09caddf1088a03494d3237c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[14]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-25-8410478943d916c2d9138af4920daf9b2fb722a4",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[15]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-26-8a95e9f3d87646cce2d0a8df3d2c45eaf1276840",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[16]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-27-bd17dbd12f7d3814dca3b0e9246e534c62edb798",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[17]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-28-f4d4449f52918d67cc0ef2f59e4cd8d2a9d4d811",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[18]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-29-085e2b8ec78c29df427ea640d832b8e9f84df44e",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[19]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-30-11ee0d233aeba2e98640a7eff601a433f597df31",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[20]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-31-042f9f2372b55b523b7b8aa69f070489306afb2c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[21]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-32-e9a1304b03a03a5a363865a3f2d903d3dce2ca13",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[22]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-33-4dd6880bad2e1ae249b76c6bb8fef09e4ff324d1",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[23]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-34-e9068eee3acc90391e33927f7cdbd4d3935b896d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[24]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-35-9a9e1de2f5f769a816fe9e491cafb258e81532d7",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[25]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-36-40da51b7b2b9b9fb061d129fe2ac8e876229a7bf",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[26]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-37-417262850a850ed8677ce574176eb7e1e5a13831",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[27]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-38-ec5a6059cf6ef667e8d749db91c08666c4891079",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[28]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/electric-cars/plug-in-hybrid.html",
+      "urlHash": "2f8af07be0822cc028019298f2d91ffa2b251d08",
+      "uuid": "2f8af07b-42-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+      "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+      "uuid": "424b09d0-03-896480cb08150fef91beae16d245364dba7834bd",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+      "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+      "uuid": "424b09d0-05-d1d56c79052545ad687e976b627c7afdc7307688",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.lt/lt/all-models/m-series/z4-m40i/bmw-z4-m40i-techniniai-duomenys.html",
+      "urlHash": "424b09d03f23a523aeca7be956a21e998d909b03",
+      "uuid": "424b09d0-10-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+      "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+      "uuid": "675c80a6-03-6ace26dd03457ad5c28c3deec6be2ef3422a715b",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+      "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+      "uuid": "675c80a6-05-129d0aed20fdc4909cf72b03e110833b7a1eed7e",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]"
+    },
+    {
+      "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+      "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+      "uuid": "675c80a6-06-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.be/fr/all-models/m-series/i7-m70/bmw-serie7-donnees-techniques.html",
+      "urlHash": "675c80a61ee73bdbb1a1d8c309f584cf3d5c9e46",
+      "uuid": "675c80a6-07-46d6c5878c29b8faa4ed7e838a577aea0115a216",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+      "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+      "uuid": "7757b489-04-46de8e7bcdcf7e515afca8fbe5da65b6f371bf78",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.lv/lv/electric-cars/bmw-charging-atbalsts.html",
+      "urlHash": "7757b4896f652cdd6a922c8761e52ef0e2ba53b2",
+      "uuid": "7757b489-11-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-03-6ace26dd03457ad5c28c3deec6be2ef3422a715b",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-04-4dadc4874032fc94849ac869000ef4effe335382",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-06-34794ddadbf84e91fa112b3ca56026a75c4957b5",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-08-da95dcc004f5dc3b087879c29b59785ac488edf6",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-10-da9cdd56d1c75a36698b2d188757ba66411ee5a8",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-12-1e05cc0cec02e43853fdd420a1188dba9049631f",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-15-2fcb365767e294f59bb7672c69df8e703ff09c11",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-17-566af1480b71548013eeef3884c0f0284cf1144d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-19-bd315b3372cecca8e08831aa5c930291866a89ec",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-22-cc463db5dddb4fd0d165f97c19b128faa23bc7ba",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.be/nl/more-bmw/technology-and-innovation/bmw-bandenmarkering.html",
+      "urlHash": "a00ebcb69a83baa283a2f1945b1d0062b77e1530",
+      "uuid": "a00ebcb6-24-a1da4a8b63437433b8a5e87badcdd27d2eb17297",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/i7/bmw-i7-berline.html",
+      "urlHash": "cb221480a735d0506e17653bcc1e6a8d2e5f9467",
+      "uuid": "cb221480-05-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+      "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+      "uuid": "d7204faa-03-5bc9d15b9c1297481780aedff34474d558525564",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+      "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+      "uuid": "d7204faa-05-1e9e03782e9f6774bfcfa4f5d2d7fcfe64194481",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+      "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+      "uuid": "d7204faa-06-8e0b34ee05004f590a3fcf44f5e5068846019f9b",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.ch/de/all-models/i-series/i7/bmw-i7-limousine-technische-daten.html",
+      "urlHash": "d7204faaa71d161ce6bb5079e97b17fe5cbfe46d",
+      "uuid": "d7204faa-07-52603f486891a2431eed28e2f2b2de3c9e416795",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-03-9ec31fac9119c86481d567abef778e8dd938fc53",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-05-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-06-b449cf266f4ba58235b994372bb21fcf262ed5ef",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-11-331714714ba7f9a025ac07f5fa1667b4180986ca",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-12-3ff3804b0a28e953cf0f2f3f05fdaa7f97e36f75",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-14-a3dcea08b92e67b4d8f8c178c7b281c98f79e612",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-15-1cc8d59844e5ed52aea53447d96da516c4522dc8",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-16-26124b0c099fb2bc72abfcb6ba60305986ee2d09",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-19-1f84efac43d78e765f31cce8a88a5235992e24d6",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-23-47b5685928a745eaa345d05aadadac0b26c20060",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-27-ea185a6a5e440e5e6552edb8b5fd53b261ff65e7",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-28-4c4be6c1d774fc6d905d961725e2ba59403af2f0",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-30-20e7b472ae997088e80eb6b45d148cf616053ce6",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/swiper-container[2]/swiper-slide[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-31-6ec5091da2dafe28cc6ddac5ed485d3b89ab105a",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/swiper-container[2]/swiper-slide[3]/div[1]/button[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-32-054d53172c3bd167f09caddf1088a03494d3237c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[14]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-33-1310865e98e7da37780518d14b8d41c54f8da0c7",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-36-6fed1e311ee1821d2b2cc676784c3abb260bcc2c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[17]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-38-60d54e9f45f3d7fd9f8db0e10f41b3f55b2be7e6",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-40-085e2b8ec78c29df427ea640d832b8e9f84df44e",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[19]"
+    },
+    {
+      "url": "https://www.bmw.fr/fr/all-models/i-series/ix2/bmw-ix2-apercu.html",
+      "urlHash": "e9827a7927a27ae4342ce41c40d71e7546babdd6",
+      "uuid": "e9827a79-44-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(38, 38, 38) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
